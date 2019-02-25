@@ -2,6 +2,15 @@
 1. [Vim](#Vim)
 1. [Linux Programming](#LinuxProgramming)
 
+<a name="GitThings"></a>
+# Git Things
+1. Get clean remote branch (from [SO](https://stackoverflow.com/a/5657500))
+    ```
+    git checkout master
+    git reset --hard origin/master
+    ```
+
+
 <a name="ShellHacks"></a>
 # Shell hacks
 
