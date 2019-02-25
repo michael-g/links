@@ -9,6 +9,14 @@
     git checkout master
     git reset --hard origin/master
     ```
+1. Squash commits (from [SO](https://stackoverflow.com/a/25357146))
+    ```
+    git checkout yourBranch
+    git reset $(git merge-base master $(git rev-parse --abbrev-ref HEAD))
+    git status
+    # add stuff and commit
+    ```
+    Also [this](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git) which has loads of upvotes for many of the answers. 
 
 
 <a name="ShellHacks"></a>
