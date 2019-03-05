@@ -1,6 +1,7 @@
 1. [Shell Hacks](#ShellHacks)
 1. [Vim](#Vim)
 1. [Linux Programming](#LinuxProgramming)
+1. [Regex, State Machines](#RegexStateMachines)
 
 <a name="GitThings"></a>
 # Git Things
@@ -36,3 +37,9 @@
 
 1. [LD_PRELOAD: the hero we need and deserve](https://blog.jessfraz.com/post/ld_preload/) ([HN Thread](https://news.ycombinator.com/item?id=19187417))
 1. [Mesh: compacting memory management for C programs](https://arxiv.org/abs/1902.04738) ([HN Thread](https://news.ycombinator.com/item?id=19182779))
+
+
+<a name="RegexStateMachines"></a>
+# Regex, State Machines
+
+1. Ragel ([homepage](http://www.colm.net/files/ragel/))
