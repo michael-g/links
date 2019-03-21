@@ -1,11 +1,12 @@
+1. [Git](#Git)
 1. [Shell Hacks](#ShellHacks)
 1. [Vim](#Vim)
 1. [Linux Programming](#LinuxProgramming)
 1. [Regex, State Machines](#RegexStateMachines)
-1. [Tmux cheat sheet](#TmuxCheatSheet)
+1. [`tmux` cheat sheet](#TmuxCheatSheet)
 
-<a name="GitThings"></a>
-# Git Things
+<a name="Git"></a>
+# Git
 1. Get clean remote branch (from [SO](https://stackoverflow.com/a/5657500))
     ```
     git checkout master
