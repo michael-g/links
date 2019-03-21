@@ -2,6 +2,7 @@
 1. [Vim](#Vim)
 1. [Linux Programming](#LinuxProgramming)
 1. [Regex, State Machines](#RegexStateMachines)
+1. [Tmux cheat sheet](#TmuxCheatSheet)
 
 <a name="GitThings"></a>
 # Git Things
@@ -44,3 +45,12 @@
 # Regex, State Machines
 
 1. Ragel ([homepage](http://www.colm.net/files/ragel/))
+
+
+<a name="TmuxCheatSheet"></a>
+# `tmux` Cheat Sheet
+
+1. Layouts
+   * `select-layout even-horizontal`: yields panes laid-out next to each other
+   * `select-layout even-vertical`: yields panes stacked one on top of the other
+   * `<cmd>+space`: cycle through the five preset layouts
