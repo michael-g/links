@@ -55,3 +55,5 @@
    * `select-layout even-horizontal`: yields panes laid-out next to each other
    * `select-layout even-vertical`: yields panes stacked one on top of the other
    * `<cmd>+space`: cycle through the five preset layouts
+1. Keystrokes
+   * `setw synchronize-panes on`: sends commands to all panes
