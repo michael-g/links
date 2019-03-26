@@ -20,7 +20,10 @@
     # add stuff and commit
     ```
     Also [this](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git) which has loads of upvotes for many of the answers. 
-
+1. Show latest revision (from [SO](https://stackoverflow.com/questions/2231546/git-see-my-last-commit))
+    ```
+    git log --name-status HEAD^..HEAD
+    ```
 
 <a name="ShellHacks"></a>
 # Shell hacks
