@@ -37,6 +37,8 @@
 
 1. [Advanced Vim macros](https://sanctum.geek.nz/arabesque/advanced-vim-macros/)
 1. [Advanced Vim registers](https://sanctum.geek.nz/arabesque/advanced-vim-registers/) _e.g._ `"Ayy` append line to contents of register `a`.
+1. Tabular [docs](https://raw.githubusercontent.com/godlygeek/tabular/master/doc/Tabular.txt)
+
 
 <a name="LinuxProgramming"></a>
 # Linux Programming
