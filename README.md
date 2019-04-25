@@ -25,6 +25,11 @@
     git show --name-status
     git log --name-status HEAD^..HEAD
     ```
+1. Show affected files in commit (from [SO](https://stackoverflow.com/a/424142))
+    ```
+    git diff-tree --no-commit-id --name-only -r bd61ad98
+    ```
+    or use `--name-status` for a bit more info. 
 
 <a name="ShellHacks"></a>
 # Shell hacks
