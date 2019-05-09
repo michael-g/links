@@ -5,6 +5,7 @@
 1. [Regex, State Machines](#RegexStateMachines)
 1. [`tmux` cheat sheet](#TmuxCheatSheet)
 
+
 <a name="Git"></a>
 # Git
 1. Get clean remote branch (from [SO](https://stackoverflow.com/a/5657500))
@@ -61,7 +62,7 @@
 # Regex, State Machines
 
 1. Ragel ([homepage](http://www.colm.net/files/ragel/))
-
+    1. SO answer on how to [balance parenthesis](https://stackoverflow.com/a/12835891)
 
 <a name="TmuxCheatSheet"></a>
 # `tmux` Cheat Sheet
