@@ -4,6 +4,9 @@
 1. [Linux Programming](#LinuxProgramming)
 1. [Regex, State Machines](#RegexStateMachines)
 1. [`tmux` cheat sheet](#TmuxCheatSheet)
+1. [OpenGL](#OpenGL)
+1. [Vulkan](#Vulkan)
+1. [WebAssembly+WebGL](#WebAssemblyWebGL)
 
 
 <a name="Git"></a>
@@ -74,3 +77,15 @@
    * `<cmd>+space`: cycle through the five preset layouts
 1. Keystrokes
    * `setw synchronize-panes on`: sends commands to all panes
+
+<a name="OpenGL"></a>
+# OpenGL
+
+1. Anton's OpenGL4 Tutorials [eBook](https://capnramses.itch.io/antons-opengl-4-tutorials)
+1. [Learn OpenGL](https://learnopengl.com/)
+1. Learn OpenGL YouTube [playlist](https://youtu.be/W3gAzLwfIP0)
+
+
+<a name="Vulkan"></a>
+
+<a name="WebAssemblyWebGL"></a>
