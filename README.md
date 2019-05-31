@@ -2,6 +2,7 @@
 1. [Shell Hacks](#ShellHacks)
 1. [Vim](#Vim)
 1. [Linux Programming](#LinuxProgramming)
+1. [C programming](#CProgramming)
 1. [Regex, State Machines](#RegexStateMachines)
 1. [`tmux` cheat sheet](#TmuxCheatSheet)
 1. [OpenGL](#OpenGL)
@@ -60,6 +61,12 @@
 1. [LD_PRELOAD: the hero we need and deserve](https://blog.jessfraz.com/post/ld_preload/) ([HN Thread](https://news.ycombinator.com/item?id=19187417))
 1. [Mesh: compacting memory management for C programs](https://arxiv.org/abs/1902.04738) ([HN Thread](https://news.ycombinator.com/item?id=19182779))
 1. [Wipe Linux while running & reinstall](http://unix.stackexchange.com/a/227318/189858) ([HN Thread](https://news.ycombinator.com/item?id=13622301))
+
+
+<a name="CProgramming"></a>
+# C Programming
+
+1. Peter's blog [strchr.com](https://www.strchr.com/)
 
 
 <a name="RegexStateMachines"></a>
