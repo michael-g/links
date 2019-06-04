@@ -42,6 +42,10 @@
 1. [Compile and run C programs as scripts](https://news.ycombinator.com/item?id=9144467)
 1. [What's in your Bash alias file?](https://news.ycombinator.com/item?id=18898523)
 1. [Learn By Example: AWK](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#dealing-with-duplicates)
+1. Deduplicate your PATH
+    ```
+    PATH=$(printf %s $PATH | awk -v RS=: -v ORS=: '!a[$0]++')
+    ```
 
 <a name="Vim"></a>
 # Vim
