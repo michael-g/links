@@ -46,6 +46,8 @@
     ```
     PATH=$(printf %s $PATH | awk -v RS=: -v ORS=: '!a[$0]++')
     ```
+1. Use here-documents to work with `sqlite` in your CLI [link](https://lobste.rs/s/c1omhw/there_s_relational_database_your_unix_cli#c_u5ukrj)
+
 
 <a name="Vim"></a>
 # Vim
@@ -95,7 +97,6 @@
 1. Anton's OpenGL4 Tutorials [eBook](https://capnramses.itch.io/antons-opengl-4-tutorials)
 1. [Learn OpenGL](https://learnopengl.com/)
 1. Learn OpenGL YouTube [playlist](https://youtu.be/W3gAzLwfIP0)
-
 
 <a name="Vulkan"></a>
 
