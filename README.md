@@ -2,11 +2,12 @@
 1. [Shell Hacks](#ShellHacks)
 1. [Vim](#Vim)
 1. [Linux Programming](#LinuxProgramming)
+1. [Networking](#Networking)
 1. [C programming](#CProgramming)
+1. [Distributed Systems](#DistributedSystems)
 1. [Regex, State Machines](#RegexStateMachines)
 1. [`tmux` cheat sheet](#TmuxCheatSheet)
 1. [OpenGL](#OpenGL)
-1. [Vulkan](#Vulkan)
 1. [WebAssembly+WebGL](#WebAssemblyWebGL)
 
 
@@ -69,10 +70,25 @@
 1. [Wipe Linux while running & reinstall](http://unix.stackexchange.com/a/227318/189858) ([HN Thread](https://news.ycombinator.com/item?id=13622301))
 
 
+<a name="Networking"></a>
+# Networking
+
+1. [TCP Puzzlers](https://www.joyent.com/blog/tcp-puzzlers) with joyent.com submissions on [HN](https://news.ycombinator.com/from?site=joyent.com)
+1. When TCP sockets [refuse to die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/) (from [HN](https://news.ycombinator.com/item?id=21044529))
+
+
 <a name="CProgramming"></a>
 # C Programming
 
 1. Peter's blog [strchr.com](https://www.strchr.com/)
+1. Common Weakness Enumerations: [Weakness in software](http://cwe.mitre.org/data/definitions/658.html) and [SEI Cert coding standards](http://cwe.mitre.org/data/definitions/1154.html) for software written in C.
+1. Generic selections in C11 ([Rob's programming blog](http://www.robertgamble.net/2012/01/c11-generic-selections.html))
+
+
+<a name="DistributedSystems"></a>
+# Distributed Systems
+
+1. Distributed Consensus Revised talk by Heidi Howard [YouTube](https://www.youtube.com/watch?v=Pqc6X3sj6q8&list=PLGRqfvsPiRSgAKk3H9uc5AEH6RaWnY9At&autoplay=0&auto_play=false)
 
 
 <a name="RegexStateMachines"></a>
