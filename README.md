@@ -36,6 +36,14 @@
     git diff-tree --no-commit-id --name-only -r bd61ad98
     ```
     or use `--name-status` for a bit more info. 
+1. Find commit for deleted file (and restore) (from [SO](https://stackoverflow.com/a/953573))
+    ```
+    git log --dif-filter=D --summary
+    ```
+    Search for prior commit hash
+    ```
+    git checkout <prior-commit-hash> path/to/file.ext
+    ```
 
 <a name="ShellHacks"></a>
 # Shell hacks
